@@ -1,0 +1,11 @@
+pandas
+NLTK
+torch
+streamlit
+matplotlib
+scikit-learn
+tensorflow
+collections
+numpy
+re
+pickle
