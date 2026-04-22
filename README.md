@@ -15,6 +15,10 @@ Pandas
 Python 
 
 Stream -lit
+
+NLP techniques 
+
+Data Set(Amazon product review data set 100k records -Columns(product id , product name , review , label)
 # APP DEMO :
 <img width="1837" height="825" alt="Screenshot 2026-04-22 005740" src="https://github.com/user-attachments/assets/9dcd8326-1560-450b-918e-1b0ff5a8686c" />
 
@@ -56,7 +60,15 @@ Predicted test data
 
 Finally model generated labels
 
+# Step-7 : Model Saving 
+saved model using torch.save()
+
+# Step-8 : Deployment 
+Deploymed model locally using stream lit 
+
 # Impact on Business :
 -Emotion of the customer 
+
+
 
 -Review Labeling 
